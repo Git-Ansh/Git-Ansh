@@ -1,6 +1,6 @@
 -Hi, I’m @Ansh2412
 -I’m interested in CyberSecurity
--I’m currently learning Python and C
+-I’m currently enrolled in Computer Science
 -I’m looking to collaborate on python project development
 -You can reach me through my email:
 -anshjarvis2003@gmail.com
