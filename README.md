@@ -8,10 +8,8 @@
 - 🔭 I’m currently working on **Java, React, TypeScript, C/C++, Kotlin**
 
 - 🌱 I’m currently learning **Kubernetes, Vue.Js, AWS, MongoDB, and Go lang**
-
-- 👨‍💻 All of my projects are available at [personalSite](personalSite)
-
-- 📫 How to reach me **anshjarvis2003@gmail.com**
+- 
+- 📫 How to reach me **as21wd@brocku.ca**
 
 - 📄 Know about my experiences [https://github.com/Git-Ansh/Resume](https://github.com/Git-Ansh/Resume)
 
