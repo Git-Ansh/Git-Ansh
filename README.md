@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Java, React, TypeScript, C/C++, Kotlin**
 
 - 🌱 I’m currently learning **Kubernetes, Vue.Js, AWS, MongoDB, and Go lang**
-- 
+  
 - 📫 How to reach me **as21wd@brocku.ca**
 
 - 📄 Know about my experiences [https://github.com/Git-Ansh/Resume](https://github.com/Git-Ansh/Resume)
